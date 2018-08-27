@@ -12,8 +12,16 @@
       @yield('content')
     </div>
 
-    <footer id="footer" class="text-center">
-      <p>Copyright &copy; 2017 Anranik @github</p>
+    <!-- Footer -->
+    <footer class="page-footer font-small blue">
+
+      <!-- Copyright -->
+      <div class="footer-copyright text-center py-3">© 2018 Copyright:
+        <a href="http://www.anowarbd.com"> Anowarbd.com</a>
+      </div>
+      <!-- Copyright -->
+
     </footer>
+    <!-- Footer -->
   </body>
 </html>
