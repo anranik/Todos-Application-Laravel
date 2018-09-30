@@ -1,4 +1,4 @@
-<p align="center">TODOs app by Anranik</p>
+<p align="center">TODOs apps by Anranik</p>
 
 
 ## About This app
